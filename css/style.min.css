@@ -1180,6 +1180,10 @@ hr {
   background-color: rgba(245, 247, 250, 0.1) !important;
 }
 
+.bg-sollock-team {
+  background-color: rgba(255, 128, 191, 0.1) !important;
+}
+
 .text-light {
   color: #f5f7fa !important;
 }
